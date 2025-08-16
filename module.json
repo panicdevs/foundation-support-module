@@ -1,9 +1,9 @@
 {
-  "id": "Support",
-  "name": "Support",
-  "alias": "support",
-  "title": "Foundation Support Module",
-  "description": "Foundation Support Module by PanicDevs",
-  "version": "1.0.0",
-  "priority": 3
+    "id": "Support",
+    "name": "Support",
+    "alias": "support",
+    "title": "Foundation Support Module",
+    "description": "Foundation Support Module by PanicDevs",
+    "version": "1.0.1",
+    "priority": 3
 }
